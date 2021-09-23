@@ -1,0 +1,38 @@
+.product{
+
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    margin-right: 57px;
+}
+.product img {
+    margin-right: 38px;
+    margin-left: 120px;
+}
+.product-color{
+
+color: blue;
+font-size: 20px;
+font-weight: 400;
+
+}
+button.cart-btn {
+    background: #ffa319;
+    color: white;
+    padding: 5px;
+    padding-right: 50px;
+    padding-left: 50px;
+    border: 1px solid #989898;
+    border-radius: 3px;
+    cursor: pointer;
+}
+button.cart-btn:hover{
+
+background: #d67738;
+transition: 0.12s;
+
+}
+.resize-product-dtl{
+
+margin-right: 399px;
+
+}

@@ -1,0 +1,24 @@
+.shop-conteinar{
+display: grid ;
+grid-template-columns: 3fr 1fr;
+margin-top: 10px;
+
+}
+.product-conteinar{
+    margin-right: -22px;
+    border-right: 1px solid lightgray;
+
+  
+
+
+}
+.iteam{
+
+margin-right: 32px;
+
+}
+.prod{
+
+margin-right: 800px;
+
+}
